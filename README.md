@@ -19,7 +19,7 @@ pkg install -y php
 
 pkg install -y openssh
 
-git clone
+git clone https://github.com/LCA-HACK/CatPhisher
 
 cd CatPhisher
 
